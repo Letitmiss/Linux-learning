@@ -4,4 +4,4 @@
 
 
 ## [第10章 vim程序编辑器](https://github.com/Letitmiss/Linux-learning/blob/master/blog/10.vim.md)
-
+## [第11章 认识与学习Bash](https://github.com/Letitmiss/Linux-learning/blob/master/blog/11.bash.md)
