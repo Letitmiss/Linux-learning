@@ -18,3 +18,8 @@
 ### [12.3 sed与awk详细介绍](https://github.com/Letitmiss/Linux-learning/blob/master/blog/12.3regular.md)
 ### [12.4 扩展正则表达式](https://github.com/Letitmiss/Linux-learning/blob/master/blog/12.4regular.md)
 ## [第13章 学习Shell Scripts](https://github.com/Letitmiss/Linux-learning/blob/master/blog/13.1shellscript.md)
+### [13.1 Shell Script介绍 ](https://github.com/Letitmiss/Linux-learning/blob/master/blog/13.1shellscript.md)
+### [13.2 善用判断式 ](https://github.com/Letitmiss/Linux-learning/blob/master/blog/13.2shellscript.md)
+### [13.3 条件判断式 ](https://github.com/Letitmiss/Linux-learning/blob/master/blog/13.3shellscript.md)
+### [13.4 循环loop ](https://github.com/Letitmiss/Linux-learning/blob/master/blog/13.4shellscript.md)
+### [13.5 ShellScript的追踪与debug](https://github.com/Letitmiss/Linux-learning/blob/master/blog/13.5shellscript.md)
