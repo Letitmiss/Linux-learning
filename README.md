@@ -16,3 +16,4 @@
 ### [12.1 基础正则表达式](https://github.com/Letitmiss/Linux-learning/blob/master/blog/12.1regular.md)
 ### [12.2 文件格式化与相关处理](https://github.com/Letitmiss/Linux-learning/blob/master/blog/12.2regular.md)
 ### [12.3 sed与awk详细介绍](https://github.com/Letitmiss/Linux-learning/blob/master/blog/12.3regular.md)
+### [12.4 扩展正则表达式](https://github.com/Letitmiss/Linux-learning/blob/master/blog/12.4regular.md)
