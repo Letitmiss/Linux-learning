@@ -4,8 +4,8 @@
 ![book](https://github.com/Letitmiss/Linux-learning/blob/master/image/learn_linux.png)
 
 
-## [第10章 vim程序编辑器](https://github.com/Letitmiss/Linux-learning/blob/master/blog/10.vim.md)
-## [第11章 认识与学习BASH](https://github.com/Letitmiss/Linux-learning/blob/master/blog/11.1bash.md)
+### [第10章 vim程序编辑器](https://github.com/Letitmiss/Linux-learning/blob/master/blog/10.vim.md)
+### [第11章 认识与学习BASH](https://github.com/Letitmiss/Linux-learning/blob/master/blog/11.1bash.md)
 ### [11.1 认识Bash和Shell的变量](https://github.com/Letitmiss/Linux-learning/blob/master/blog/11.1bash.md)
 ### [11.2 别名与历史命令](https://github.com/Letitmiss/Linux-learning/blob/master/blog/11.2bash.md)
 ### [11.3 Bash操作环境](https://github.com/Letitmiss/Linux-learning/blob/master/blog/11.3bash.md)
