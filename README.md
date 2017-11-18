@@ -10,7 +10,7 @@
 ### [8.1 认识EXT2文件系统](https://github.com/Letitmiss/Linux-learning/blob/master/blog/8.1disk_fileSystem.md)
 ### [8.2 文件系统的简单操作](https://github.com/Letitmiss/Linux-learning/blob/master/blog/8.2disk_fileSystem.md)
 ### [8.3 磁盘的分割与格式化](https://github.com/Letitmiss/Linux-learning/blob/master/blog/8.3disk_fileSystem.md)
-### [8.4 磁盘的检验与挂载](https://github.com/Letitmiss/Linux-learning/blob/master/blog/8.4disk_fileSystem.md)
+### [8.4 磁盘的挂载](https://github.com/Letitmiss/Linux-learning/blob/master/blog/8.4disk_fileSystem.md)
 ### [8.5 设定开机挂载 ](https://github.com/Letitmiss/Linux-learning/blob/master/blog/8.5disk_fileSystem.md)
 ### [8.6 内存置换空间swap之建置](https://github.com/Letitmiss/Linux-learning/blob/master/blog/8.6disk_fileSystem.md)
 ### [8.7 文件系统的特殊观察与操作](https://github.com/Letitmiss/Linux-learning/blob/master/blog/8.7disk_fileSystem.md)
