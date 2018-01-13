@@ -35,4 +35,10 @@
 ### [13.4 循环loop ](https://github.com/Letitmiss/Linux-learning/blob/master/blog/13.4shellscript.md)
 ### [13.5 ShellScript的追踪与debug](https://github.com/Letitmiss/Linux-learning/blob/master/blog/13.5shellscript.md)
 ## [第14章 Linux账号管理与ACL权限设置](https://github.com/Letitmiss/Linux-learning/blob/master/blog/14.1accountandACL.md)
-
+### [14.1 Linux账号与用户组](https://github.com/Letitmiss/Linux-learning/blob/master/blog/14.2accountandACL.md)
+### [14.2 账号管理](https://github.com/Letitmiss/Linux-learning/blob/master/blog/14.1accountandACL.md)
+### [14.3 主机具体权限规范](https://github.com/Letitmiss/Linux-learning/blob/master/blog/14.3accountandACL.md)
+### [14.4 用户身份切换](https://github.com/Letitmiss/Linux-learning/blob/master/blog/14.4accountandACL.md)
+### [14.5 用户的特殊shell与PAM模块](https://github.com/Letitmiss/Linux-learning/blob/master/blog/14.5accountandACL.md)
+### [14.6 Linux主机上的用户信息传递](https://github.com/Letitmiss/Linux-learning/blob/master/blog/14.6accountandACL.md)
+### [14.7 14.7 手动新增用户](https://github.com/Letitmiss/Linux-learning/blob/master/blog/14.7accountandACL.md)
