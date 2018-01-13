@@ -34,3 +34,5 @@
 ### [13.3 条件判断式 ](https://github.com/Letitmiss/Linux-learning/blob/master/blog/13.3shellscript.md)
 ### [13.4 循环loop ](https://github.com/Letitmiss/Linux-learning/blob/master/blog/13.4shellscript.md)
 ### [13.5 ShellScript的追踪与debug](https://github.com/Letitmiss/Linux-learning/blob/master/blog/13.5shellscript.md)
+## [第14章 Linux账号管理与ACL权限设置](https://github.com/Letitmiss/Linux-learning/blob/master/blog/14.1accountandACL.md)
+
