@@ -16,7 +16,7 @@
 ### [8.7 文件系统的特殊观察与操作](https://github.com/Letitmiss/Linux-learning/blob/master/blog/8.7disk_fileSystem.md)
 ## [第9章 档案与文件系统的压缩与打包](https://github.com/Letitmiss/Linux-learning/blob/master/blog/9.1package.md)
 ### [9.1 Linux系统常见的压缩指令](https://github.com/Letitmiss/Linux-learning/blob/master/blog/9.1package.md)
-### [9.2 Linux系统常见的压缩指令](https://github.com/Letitmiss/Linux-learning/blob/master/blog/9.2package.md)
+### [9.2 Linux系统备份工具](https://github.com/Letitmiss/Linux-learning/blob/master/blog/9.2package.md)
 
 ## [第10章 vim程序编辑器](https://github.com/Letitmiss/Linux-learning/blob/master/blog/10.vim.md)
 ## [第11章 认识与学习BASH](https://github.com/Letitmiss/Linux-learning/blob/master/blog/11.1bash.md)
